@@ -1,3 +1,7 @@
 time series analysis
 Instruments in MIDAS
 Panel Nonparametric
+
+functional data
+point process
+stock trading
